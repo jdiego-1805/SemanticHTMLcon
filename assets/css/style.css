@@ -74,8 +74,8 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-
-.benefits {
+/* changed benefits name to section to match */
+section {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -187,8 +187,8 @@ main {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/* deleted period before footer */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
